@@ -1,4 +1,4 @@
-# kevin
+# Moupegnou Nzoussi kevin Grace
 Задача: спроектировать и разработать API для системы опросов пользователей
 
 ## Installation requirements
